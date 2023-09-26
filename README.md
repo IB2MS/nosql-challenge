@@ -47,7 +47,7 @@ The `NoSQL_setup_starter.ipynb` sets up and updates the database. The `NoSQL_ana
     There are 33 establishments in London that have a RatingValue greater than or equal to 4 from the `uk_food` dataset.
 
 3. What are the top 5 establishments with a RatingValue rating value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
-4. 
+ 
    TOP 5 establishments with a RatingValue of '5' sorted by lowest hygiene score nearest to "Penang Flavours": 
    -- 'Howe and Co Fish and Chips - Van 17'
    -- 'Atlantic Fish Bar'
